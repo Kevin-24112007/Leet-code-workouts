@@ -11,3 +11,5 @@ class Solution(object):
                 total += current
             prev=current
         return total
+
+# this is just for testing
