@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
