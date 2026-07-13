@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0092-reverse-linked-list-ii) |
 | [0328-odd-even-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
