@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0328-odd-even-linked-list) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
