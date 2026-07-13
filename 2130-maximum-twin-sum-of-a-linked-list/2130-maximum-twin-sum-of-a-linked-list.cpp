@@ -1,6 +1,6 @@
 /**
  * Definition for singly-linked list.
- * struct ListNode {
+ * struct ListNode {8
  *     int val;
  *     ListNode *next;
  *     ListNode() : val(0), next(nullptr) {}
@@ -10,28 +10,19 @@
  */
 class Solution {
 public:
+    int max_pair;
+    ListNode* temp;
+
+    void iterate(ListNode* slow,ListNode* fast){
+        if(fast->next->next != NULL) iterate(slow->next,fast->next->next);
+        else temp = slow->next;
+        max_pair = max(max_pair,slow->val+temp->val);
+        temp = temp->next;
+    }
+
     int pairSum(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-        while(fast != nullptr && fast->next != nullptr){
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-        ListNode* prev = nullptr;
-        while(slow != nullptr){
-            ListNode* nextnode = slow->next;
-            slow->next = prev;
-            prev = slow;
-            slow = nextnode;
-        }
-        int ans = 0;
-        ListNode* first = head;
-        ListNode* second = prev;
-        while(second != nullptr){
-            ans = max(ans,first->val + second->val);
-            first = first->next;
-            second = second->next;
-        }
-        return ans;
+        max_pair = head->val;
+        iterate(head,head);
+        return max_pair;
     }
 };
