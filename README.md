@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -67,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0647-palindromic-substrings) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
