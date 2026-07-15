@@ -80,9 +80,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
