@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
+| [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
