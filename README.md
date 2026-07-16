@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0234-palindrome-linked-list) |
+| [0556-next-greater-element-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0647-palindromic-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0647-palindromic-substrings) |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0556-next-greater-element-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
