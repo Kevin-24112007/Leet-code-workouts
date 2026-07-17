@@ -112,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0503-next-greater-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
