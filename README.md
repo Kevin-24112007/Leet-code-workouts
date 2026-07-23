@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0015-3sum) |
+| [0064-minimum-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0064-minimum-path-sum) |
 | [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
 | [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0503-next-greater-element-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0064-minimum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0647-palindromic-substrings) |
 ## Bucket Sort
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0386-lexicographical-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
