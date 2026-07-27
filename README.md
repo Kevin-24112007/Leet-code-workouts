@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
 | [0885-spiral-matrix-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0885-spiral-matrix-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0386-lexicographical-numbers) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Trie
 |  |
 | ------- |
@@ -138,8 +141,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0064-minimum-path-sum) |
 | [0885-spiral-matrix-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0885-spiral-matrix-iii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0409-longest-palindrome) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union-Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
