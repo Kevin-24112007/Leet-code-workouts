@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0503-next-greater-element-ii) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
