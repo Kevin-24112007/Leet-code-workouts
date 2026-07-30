@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0556-next-greater-element-iii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0409-longest-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Breadth-First Search
 |  |
 | ------- |
