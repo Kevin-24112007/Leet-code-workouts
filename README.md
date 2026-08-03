@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0064-minimum-path-sum) |
 | [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0275-h-index-ii) |
 | [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0503-next-greater-element-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0806-number-of-lines-to-write-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0275-h-index-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
