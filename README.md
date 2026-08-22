@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0212-word-search-ii) |
 | [0409-longest-palindrome](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0424-longest-repeating-character-replacement) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0084-largest-rectangle-in-histogram) |
 | [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
+| [0212-word-search-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0212-word-search-ii) |
 | [0274-h-index](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0275-h-index-ii) |
 | [0396-rotate-function](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0396-rotate-function) |
@@ -165,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0386-lexicographical-numbers) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0064-minimum-path-sum) |
+| [0212-word-search-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0212-word-search-ii) |
 | [0885-spiral-matrix-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0885-spiral-matrix-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Greedy
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
