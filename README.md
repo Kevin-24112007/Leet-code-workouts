@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0084-largest-rectangle-in-histogram) |
 | [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0275-h-index-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0234-palindrome-linked-list) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0503-next-greater-element-ii) |
 ## Depth-First Search
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0371-sum-of-two-integers) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
