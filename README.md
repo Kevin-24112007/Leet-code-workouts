@@ -256,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0474-ones-and-zeroes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
