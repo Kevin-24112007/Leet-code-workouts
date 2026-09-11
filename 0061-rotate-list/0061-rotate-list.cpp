@@ -10,34 +10,29 @@
  */
 class Solution {
 public:
-
-    int count_len(ListNode* head){
-        int c = 1;
-        while(head !=NULL && head->next != NULL){
-            c++;
-            head = head->next;
-        }
-        return c;
-    }
-
     ListNode* rotateRight(ListNode* head, int k) {
-        
-        int count = count_len(head);
-        if(count <= 1) return head;
-        k = k%count;
-        k = count-k-1;
-        ListNode* temp = head, *temp_h = head, *temp_head;
-        while(k--){
+        if(head == nullptr || head->next == nullptr) return head;
+        struct ListNode* temp= head;
+        int N = 0;
+        while(temp != nullptr) {
+            N++;
             temp = temp->next;
         }
-        temp_head = temp->next;
-        temp->next = NULL;
-        head = temp_head;
-        while(temp_head!=NULL && temp_head->next != NULL){
-            temp_head = temp_head->next;
+        struct ListNode* t = head;
+        k = k%N;
+        if(k == 0) return head;
+        int lim = N-k;
+        for(int i = 0; i < lim-1; i++) {
+            t = t->next;
         }
-        if (temp_head!=NULL) temp_head->next = temp_h;
-        if (head!=NULL) return head;
-        else return temp_h;
+        struct ListNode* h1 = t->next;
+        t->next = nullptr;
+        struct ListNode* tail = h1;
+        while(tail->next != nullptr) {
+            tail = tail->next;
+        }
+        tail->next = head;
+        head = h1;
+        return head;
     }
 };
