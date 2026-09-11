@@ -269,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0511-game-play-analysis-i) |
+| [0577-employee-bonus](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
