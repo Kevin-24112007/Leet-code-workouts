@@ -281,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1070-product-sales-analysis-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
