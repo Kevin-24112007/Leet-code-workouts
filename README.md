@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0647-palindromic-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
 | [0885-spiral-matrix-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0885-spiral-matrix-iii) |
 | [0929-unique-email-addresses](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0929-unique-email-addresses) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
