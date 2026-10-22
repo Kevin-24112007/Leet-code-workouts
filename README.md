@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0112-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0733-flood-fill) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0733-flood-fill) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -309,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1025-divisor-game) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
