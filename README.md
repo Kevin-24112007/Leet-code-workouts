@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3875-construct-uniform-parity-array-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1154-day-of-the-year) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3870-count-commas-in-range) |
