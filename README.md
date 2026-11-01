@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0275-h-index-ii) |
 | [0396-rotate-function](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0556-next-greater-element-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0556-next-greater-element-iii) |
 | [1025-divisor-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1154-day-of-the-year) |
