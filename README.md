@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3875-construct-uniform-parity-array-i) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3875-construct-uniform-parity-array-i) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
 | ------- |
