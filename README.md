@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0929-unique-email-addresses) |
+| [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
 | [1154-day-of-the-year](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1154-day-of-the-year) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0885-spiral-matrix-iii) |
 | [0929-unique-email-addresses](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0929-unique-email-addresses) |
+| [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0647-palindromic-substrings) |
 | [1025-divisor-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1025-divisor-game) |
+| [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
 ## Bucket Sort
 |  |
 | ------- |
