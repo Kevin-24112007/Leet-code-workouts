@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0275-h-index-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
