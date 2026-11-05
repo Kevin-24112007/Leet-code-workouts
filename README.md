@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0503-next-greater-element-ii) |
+| [0699-falling-squares](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0699-falling-squares) |
 | [0733-flood-fill](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0733-flood-fill) |
 | [0806-number-of-lines-to-write-string](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
@@ -341,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0112-path-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0699-falling-squares](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0699-falling-squares) |
+## Ordered Set
+|  |
+| ------- |
+| [0699-falling-squares](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0699-falling-squares) |
 <!---LeetCode Topics End-->
