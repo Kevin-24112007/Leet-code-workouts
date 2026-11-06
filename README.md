@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2747-count-zero-request-servers) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0412-fizz-buzz) |
 | [0885-spiral-matrix-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0885-spiral-matrix-iii) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1535-find-the-winner-of-an-array-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Game Theory
 |  |
