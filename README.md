@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0012-integer-to-roman) |
 | [0212-word-search-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0212-word-search-ii) |
 | [0409-longest-palindrome](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0412-fizz-buzz) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0424-longest-repeating-character-replacement) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0396-rotate-function) |
