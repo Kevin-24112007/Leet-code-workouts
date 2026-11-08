@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
+| [1267-count-servers-that-communicate](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1267-count-servers-that-communicate) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1331-rank-transform-of-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0819-most-common-word) |
+| [1267-count-servers-that-communicate](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Trie
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0733-flood-fill) |
 | [0885-spiral-matrix-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0885-spiral-matrix-iii) |
+| [1267-count-servers-that-communicate](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Greedy
 |  |
@@ -241,11 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sliding Window
 |  |
