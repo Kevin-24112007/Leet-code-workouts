@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3875-construct-uniform-parity-array-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0647-palindromic-substrings) |
 | [1025-divisor-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/1048-longest-string-chain) |
+| [3693-climbing-stairs-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3693-climbing-stairs-ii) |
 ## Bucket Sort
 |  |
 | ------- |
