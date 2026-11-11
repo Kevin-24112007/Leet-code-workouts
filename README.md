@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3875-construct-uniform-parity-array-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Kevin-24112007/Leet-code-workouts/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
 |  |
 | ------- |
